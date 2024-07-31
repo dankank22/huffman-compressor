@@ -9,5 +9,3 @@ To compress a file, create an instance of HuffmanCode using an array of characte
 ### Decompression
 To decompress a file, create an instance of HuffmanCode using a Scanner object to read the saved Huffman codes. Then, use the translate method to decode the data.
 
-### Example
-Here is a simple example of how to use the HuffmanCode class:
